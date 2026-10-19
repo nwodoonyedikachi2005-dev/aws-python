@@ -1,0 +1,2 @@
+this is my first python project towards becoming a dev-ops engennier 
+the python script is use is to call my aws s3 buckets list them and check if they are encrypted or not and also to get my inbound security group rules and list them 
